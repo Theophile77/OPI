@@ -1,1 +1,16 @@
-YOlo
+Exercice 1/
+
+1)
+2) Le répertoire .git/ est créé.
+3)
+4)
+5) Il y a marqué: 
+						nouveau fichier: git.txt
+
+6)
+7) La copie du travail est propre d'apres le terminal.
+8) Cette commande permet d'afficher les différente modifications des fichiers dans git.
+9) Cette commande met à jours les documents dans git.
+10)
+11) On peut voir le fichier que j'ai créé précédemment.
+12)
